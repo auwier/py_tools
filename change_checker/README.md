@@ -16,14 +16,13 @@ This Python script uses the Selenium library to automatically play a sound when 
    ```
 
 2. **Install Dependencies:**
-
-```bash
-pip install selenium
-```
+   ```bash
+   pip install selenium
+   ```
 
 3. **Configure the Script:**
 
-  Open the script (main.py) in a text editor.
+   Open the script (main.py) in a text editor.
 - Replace <expected_text> with the expected text content.
 - Replace <your_xpath> with the XPath expression to locate the target element.
 - Replace <path_to_webdriver/chromedriver> with the actual path to your ChromeDriver executable.
